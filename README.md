@@ -163,22 +163,6 @@ src/
 └── main.tsx            # Application entry point
 ```
 
-## 📸 Screenshots
-
-<div align="center">
-  <h3>Dashboard View</h3>
-  <p>Interactive financial dashboard with charts and metrics</p>
-  
-  <h3>Transaction Management</h3>
-  <p>Easy-to-use transaction forms and calendar view</p>
-  
-  <h3>AI Chatbot</h3>
-  <p>Intelligent financial advice powered by Gemini AI</p>
-  
-  <h3>Mobile Responsive</h3>
-  <p>Optimized for all device sizes</p>
-</div>
-
 ## 🌐 Deployment
 
 ### Netlify (Current)
@@ -223,10 +207,6 @@ We welcome contributions! Please follow these steps:
 - **Email**: bazaraisup@gmail.com
 - **Issues**: [GitHub Issues](https://github.com/Sancar22-debug/Bazar.AI/issues)
 - **Documentation**: Check the wiki for detailed guides
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
