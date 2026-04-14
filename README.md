@@ -1,3 +1,5 @@
+# NOT VERY SECURE YET HIGHLY NOT SUGGEST WRITING YOUR REAL DATA, ANY DATA CAN WORK OUT FOR NOW
+
 # Bazar.ai
 
 A financial management application for small businesses in Kyrgyzstan. Track your income, expenses, and get AI-powered insights about your business.
