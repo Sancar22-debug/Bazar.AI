@@ -12,7 +12,7 @@ class GeminiService {
   constructor() {
     if (API_KEY) {
       this.genAI = new GoogleGenerativeAI(API_KEY);
-      this.model = this.genAI.getGenerativeModel({ model: "gemini-2.0-flash" });
+      this.model = this.genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
     } else {
       console.warn('Gemini API key not found. Please set VITE_GEMINI_API_KEY in your .env file.');
     }
